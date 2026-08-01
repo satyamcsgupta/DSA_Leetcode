@@ -18,15 +18,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
