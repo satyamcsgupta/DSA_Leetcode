@@ -8,6 +8,9 @@ public:
     if(index>n||temp.size()>k){
         return ;
     }
+    if(((n-index+1)+temp.size())<k){
+        return ;
+    }
 
 
     comb(n,k,ans,temp,index+1);
