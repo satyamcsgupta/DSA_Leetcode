@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
+| [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 ## Sorting
@@ -60,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
