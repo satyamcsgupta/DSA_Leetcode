@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
