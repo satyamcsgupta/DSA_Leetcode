@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Enumeration
 |  |
 | ------- |
