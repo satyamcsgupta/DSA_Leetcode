@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -169,5 +170,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
