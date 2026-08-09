@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -173,5 +175,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0061-rotate-list) |
 | [0203-remove-linked-list-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
