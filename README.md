@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
