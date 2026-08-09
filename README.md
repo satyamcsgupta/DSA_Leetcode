@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -167,5 +168,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
