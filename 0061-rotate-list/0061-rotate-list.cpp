@@ -25,10 +25,8 @@
                 temp=temp->next;
                 count++;
             }
-          if(count < k){
-                k=k%count;
-            }
-            if(count == count - k  || (count - k) == 0 ){
+              k=k%count;
+            if(  k == 0 ){
                 return head ;
             }
           
