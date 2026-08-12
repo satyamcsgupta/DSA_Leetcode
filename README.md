@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
