@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Backtracking
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
