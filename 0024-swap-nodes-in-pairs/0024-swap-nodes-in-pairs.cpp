@@ -27,7 +27,7 @@ public:
             second->next = first;
 
             // Connect previous part to swapped pair
-            prev->next = second;
+            prev->next = second;  //this is the most important line which solve the problme of pointing 1->4 
 
             // Move to next pair
             prev = first;
