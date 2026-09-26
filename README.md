@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
