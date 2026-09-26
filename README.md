@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Union-Find
 |  |
