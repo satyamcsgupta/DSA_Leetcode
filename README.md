@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
