@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -337,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
