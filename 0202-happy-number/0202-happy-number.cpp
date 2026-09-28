@@ -1,29 +1,21 @@
 class Solution {
 public:
-    int digitSquareSum(int n) {
-        int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
-        }
-
-        return sum;
-    }
-
     bool isHappy(int n) {
-        unordered_set<int> seen;
-
+        std::unordered_set<int> visited;
+        visited.insert(1);
         while (n != 1) {
-
-            if (seen.count(n)) {
+            if (!visited.insert(n).second) {
                 return false;
             }
 
-            seen.insert(n);
+            int sum = 0;
+            while (n) {
+                int mod = n % 10;
+                sum += (mod * mod);
+                n /= 10;
+            }
 
-            n = digitSquareSum(n);
+            n = sum;
         }
 
         return true;
