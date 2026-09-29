@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Union-Find
 |  |
@@ -314,18 +316,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0101-symmetric-tree) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0101-symmetric-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Number Theory
 |  |
 | ------- |
