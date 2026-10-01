@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
