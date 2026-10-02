@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0077-combinations) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0063-unique-paths-ii) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
