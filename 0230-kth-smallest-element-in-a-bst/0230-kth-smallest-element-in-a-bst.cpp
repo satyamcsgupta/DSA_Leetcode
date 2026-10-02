@@ -1,29 +1,31 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-void find(TreeNode* root ,vector<int> &ans){
-    if(!root){
-        return;
+    int find(TreeNode* root, int &k) {
+
+        if (!root) {
+            return -1;
+        }
+
+        // Go to left subtree
+        int left = find(root->left, k);
+
+        // If answer was found in left subtree
+        if (left != -1) {
+            return left;
+        }
+
+        // Visit current node
+        k--;
+
+        if (k == 0) {
+            return root->val;
+        }
+
+        // Go to right subtree
+        return find(root->right, k);
     }
 
-    find(root->left ,ans );
-    ans.push_back(root->val);
-    find(root->right,ans);
-
-}
     int kthSmallest(TreeNode* root, int k) {
-        vector<int>ans;
-     find(root,ans);
-     return ans[k-1];
+        return find(root, k);
     }
 };
