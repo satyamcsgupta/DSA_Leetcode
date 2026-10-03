@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0223-rectangle-area) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0137-single-number-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0067-add-binary) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
