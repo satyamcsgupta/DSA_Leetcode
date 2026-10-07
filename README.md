@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0796-rotate-string) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
