@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -417,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
