@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Union-Find
 |  |
