@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Union-Find
 |  |
@@ -266,10 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Merge Sort
 |  |
 | ------- |
