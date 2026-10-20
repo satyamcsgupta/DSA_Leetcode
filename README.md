@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3886-sum-of-sortable-integers](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3886-sum-of-sortable-integers](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
