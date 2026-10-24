@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 | [2235-add-two-integers](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2409-count-days-spent-together](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
