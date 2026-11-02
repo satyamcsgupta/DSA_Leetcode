@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
