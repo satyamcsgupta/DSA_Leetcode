@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int minMoves(vector<int>& nums) {
+        int n=nums.size();
+        int min_count =0;
+        sort(nums.begin() ,nums.end());
+        for(int i=0;i<n-1;i++){
+            min_count =min_count +(nums[n-1] -nums[i]);
+        }
+        return min_count;
+    }
+};
