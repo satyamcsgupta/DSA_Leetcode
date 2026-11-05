@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
