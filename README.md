@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0877-stone-game) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1901-find-a-peak-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2029-stone-game-ix](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1096-brace-expansion-ii](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/satyamcsgupta/DSA_Leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
